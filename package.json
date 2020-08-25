@@ -40,7 +40,7 @@
     "fork-ts-checker-webpack-plugin": "5.0.6",
     "postcss-preset-env": "6.7.0",
     "react-is": "16.13.1",
-    "ts-loader": "7.0.5",
+    "ts-loader": "8.0.3",
     "typescript": "3.9.6"
   }
 }
